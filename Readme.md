@@ -7,7 +7,7 @@ This repository is the official site of ''MMDialog: A Large-scale Multi-turn Dia
 
 **A Dialogue Case of MMDialog:**
 
-<img title="Dataset ADialogueCase" alt="Dataset ADialogueCase" src="./ADialogueCase.PNG" style="height: 500px;"/>
+<img title="Dataset ADialogueCase" alt="Dataset ADialogueCase" src="./ADialogueCase.PNG" style="height: 600px;"/>
 
 
 **Statistics:**

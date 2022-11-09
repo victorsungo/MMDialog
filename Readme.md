@@ -5,7 +5,7 @@ This repository is the official site of ''MMDialo: A Large-scale Multi-turn Dial
 
 Dataset Folder Format:
 
-<img title="Dataset Format" alt="Dataset Format" src="./DatasetTree.PNG">
+<img title="Dataset Format" alt="Dataset Format" src="./DatasetTree.PNG" style="height: 100px; width:100px;"/>
 
 conversations.json
 

@@ -1,11 +1,11 @@
 
-# MMDialo: A Large-scale Multi-turn Dialogue Dataset Towards Multi-modal Open-domain Conversation
+# MMDialog: A Large-scale Multi-turn Dialogue Dataset Towards Multi-modal Open-domain Conversation
 
-This repository is the official site of ''MMDialo: A Large-scale Multi-turn Dialogue Dataset Towards Multi-modal Open-domain Conversation''
+This repository is the official site of ''MMDialog: A Large-scale Multi-turn Dialogue Dataset Towards Multi-modal Open-domain Conversation''
 
 ## About the dataset
 
-**A Dialogue Case of MMDialo:**
+**A Dialogue Case of MMDialog:**
 
 <img title="Dataset ADialogueCase" alt="Dataset ADialogueCase" src="./ADialogueCase.PNG" style="height: 500px;"/>
 

@@ -16,7 +16,7 @@ This repository is the official site of ''MMDialog: A Large-scale Multi-turn Dia
 
 **Dataset Folder Format:**
 
-<img title="Dataset Format" alt="Dataset Format" src="./DatasetTree.PNG" style="height: 260px; width:260px;"/>
+<img title="Dataset Format" alt="Dataset Format" src="./DatasetTree.PNG" style="height: 300px; width:300px;"/>
 
 **File: conversations.json**
 

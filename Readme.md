@@ -44,6 +44,7 @@ If you don't meet **all of the requirements** above, we **would not** share you 
 | Your  study or work organization | e.g. Microsoft Research, DeepMind, Cornell University, ...       |
 | Your  Academic Homepage | Your [Google Scholar] or [Homepage_URL running on  your organization website (e.g. yourname.people.xxx.edu / yourname.xxx.people.msr.microsoft)]       |
 | Non-commercial Use  | You [promise / cannot promise] that you will not apply data to commercial scenarios or products.  |
-| Your Plan:      | (Describe your research plan and how you intend to use and analyze this data from your research. **>= 50 words**)   |
+| Sharing Limitation  | You [promise / cannot promise] you would not share this dataset without our qualification review and permission.  |
+| Your Plan      | (Describe your research plan and how you intend to use and analyze this data from your research. **>= 50 words**)   |
 
 ##### Then use your **edu or research email account** to send the form to fengjiazhan@pku.edu.cn for a review, if you meet all the requirements, we would share you a cloud folder which store the dataset **within a week**.

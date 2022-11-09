@@ -6,7 +6,7 @@ This repository is the official site of ''MMDialo: A Large-scale Multi-turn Dial
 ## About the dataset
 
 **Statistics**
-<img title="Dataset Statistics" alt="Dataset Statistics" src="./DatasetStatistics.PNG" style="height: 260px; width:260px;"/>
+<img title="Dataset Statistics" alt="Dataset Statistics" src="./DatasetStatistics.PNG" style="height: 260px;"/>
 
 **Dataset Folder Format:**
 

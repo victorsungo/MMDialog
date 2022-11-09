@@ -11,7 +11,7 @@ conversations.json
 
 <img title="Dialogue Case" alt="Dialogue Case" src="./ConvCase.PNG">
 
-Note: train set do not contain "negative_candidate_media_keys", which only exists in test and valid set. Each "negative_candidate_media_keys" contains 999 negative candidates for retrieval task. 
+Note: train set do not contain "negative_candidate_media_keys" and "negative_candidate_texts", which only exists in test and valid set. Each "negative_candidate_xxx" contains 999 negative candidates for retrieval task. 
 
 
 To get this dataset, you and your organization require:

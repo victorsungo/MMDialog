@@ -11,7 +11,9 @@ conversations.json
 
 <img title="Dialogue Case" alt="Dialogue Case" src="./ConvCase.PNG">
 
-Note: train set do not contain "negative_candidate_media_keys" and "negative_candidate_texts", which only exists in test and valid set. Each "negative_candidate_xxx" contains 999 negative candidates for retrieval task. 
+**Note:** 
+1. train set do not contains "negative_candidate_media_keys" and "negative_candidate_texts", which only exists in test and valid set. Each "negative_candidate_xxx" contains 999 negative candidates for retrieval task. 
+2. Words like :smiling_face_with_smiling_eyes: and :raising_hands: are emotion tokens, we will share you the mapping between these tokens and real emotions.
 
 
 To get this dataset, you and your organization require:

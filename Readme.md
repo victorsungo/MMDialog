@@ -3,11 +3,16 @@
 
 This repository is the official site of ''MMDialo: A Large-scale Multi-turn Dialogue Dataset Towards Multi-modal Open-domain Conversation''
 
-## Dataset Folder Format:
+## About the dataset
+
+**Statistics**
+<img title="Dataset Statistics" alt="Dataset Statistics" src="./DatasetStatistics.PNG" style="height: 260px; width:260px;"/>
+
+**Dataset Folder Format:**
 
 <img title="Dataset Format" alt="Dataset Format" src="./DatasetTree.PNG" style="height: 260px; width:260px;"/>
 
-conversations.json
+**File: conversations.json**
 
 <img title="Dialogue Case" alt="Dialogue Case" src="./ConvCase.PNG">
 

@@ -12,7 +12,10 @@ This repository is the official site of ''MMDialog: A Large-scale Multi-turn Dia
 
 **Statistics:**
 
-<img title="Dataset Statistics" alt="Dataset Statistics" src="./DatasetStatistics.PNG" style="height: 260px;"/>
+<img title="Dataset Statistics" alt="Dataset Statistics" src="./DatasetStatistics_1.PNG" style="height: 260px;"/>
+
+<img title="Dataset Statistics" alt="Dataset Statistics" src="./DatasetStatistics_2.PNG" style="height: 260px;"/>
+
 
 **Dataset Folder Format:**
 

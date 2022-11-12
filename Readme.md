@@ -19,20 +19,15 @@ This repository is the official site of [MMDialog: A Large-scale Multi-turn Dial
 <img title="Dataset Statistics" alt="Dataset Statistics" src="./DatasetStatistics_2.PNG" style="height: 260px;"/>
 
 If you use it in your work, please cite our paper:
- [![LINK](https://img.shields.io/badge/-Paper%20Link-lightgrey)](https://arxiv.org/abs/2211.05719) [![PDF](https://img.shields.io/badge/-PDF-red)](https://arxiv.org/abs/2211.05719)
+ [![LINK](https://img.shields.io/badge/-Paper%20Link-lightgrey)](https://arxiv.org/abs/2211.05719) [![PDF](https://img.shields.io/badge/-PDF-red)](https://arxiv.org/pdf/2211.05719.pdf)
 
 ```
-@misc{https://doi.org/10.48550/arxiv.2211.05719,
-  doi = {10.48550/ARXIV.2211.05719},
-  url = {https://arxiv.org/abs/2211.05719},
-  author = {Feng, Jiazhan and Sun, Qingfeng and Xu, Can and Zhao, Pu and Yang, Yaming and Tao, Chongyang and Zhao, Dongyan and Lin, Qingwei},
-  keywords = {Computation and Language (cs.CL), Artificial Intelligence (cs.AI), Computer Vision and Pattern Recognition (cs.CV), Machine Learning (cs.LG), Multimedia (cs.MM), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {MMDialog: A Large-scale Multi-turn Dialogue Dataset Towards Multi-modal Open-domain Conversation},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {arXiv.org perpetual, non-exclusive license}
+@article{feng2022mmdialog,
+  title={MMDialog: A Large-scale Multi-turn Dialogue Dataset Towards Multi-modal Open-domain Conversation},
+  author={Jiazhan Feng, Qingfeng Sun, Can Xu, Pu Zhao, Yaming Yang, Chongyang Tao, Dongyan Zhao, Qingwei Lin},
+  journal={arXiv preprint arXiv:2211.05719},
+  year={2022}
 }
-
 ```
 
 **Dataset Folder Format:**

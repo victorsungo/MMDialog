@@ -9,7 +9,7 @@ This repository is the official site of [MMDialog: A Large-scale Multi-turn Dial
 
 **A Dialogue Case of MMDialog:**
 
-<img title="Dataset ADialogueCase" alt="Dataset ADialogueCase" src="./ADialogueCase.PNG" style="height: 600px;"/>
+<img title="Dataset ADialogueCase" alt="Dataset ADialogueCase" src="./ADialogueCase.PNG" style="height: 800px;"/>
 
 
 **Statistics:**
@@ -21,7 +21,7 @@ This repository is the official site of [MMDialog: A Large-scale Multi-turn Dial
 
 **Dataset Folder Format:**
 
-<img title="Dataset Format" alt="Dataset Format" src="./DatasetTree.PNG" style="height: 300px; width:300px;"/>
+<img title="Dataset Format" alt="Dataset Format" src="./DatasetTree.PNG" style="height: 360px;"/>
 
 **File: conversations.json**
 

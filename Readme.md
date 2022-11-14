@@ -63,4 +63,4 @@ If you don't meet **all of the requirements** above, we **would not** share you 
 | Sharing Limitation  | You [promise / cannot promise] you would not share this dataset without our qualification review and permission.  |
 | Your Plan      | (Describe your research plan and how you intend to use and analyze this data from your research. **>= 50 words**)   |
 
-##### Then use your **edu or research email account** to send the form to fengjiazhan@pku.edu.cn for a review, if you meet all the requirements, we would share you a cloud folder which stores the dataset and preprocess & test scripts **within a week**.
+##### Then use your **edu or research email account** to send the form to [v-jiafeng@microsoft.com] for a review, if you meet all the requirements, we would share you a cloud folder which stores the dataset and preprocess & test scripts **within a week**.

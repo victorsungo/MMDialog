@@ -40,8 +40,8 @@ If you use it in your work, please cite our paper:
 
 **Note:** 
 1. train set do not contains "negative_candidate_media_keys" and "negative_candidate_texts", which only exists in test and valid set. Each "negative_candidate_xxx" contains 999 negative candidates for retrieval task. 
-2. Words like :smiling_face_with_smiling_eyes: and :raising_hands: are emotion tokens, we will share you the mapping between these tokens and real emotions.
-3. To compute the CLIP scores in MMRel, we provide a demo in compute_mmrel.py
+2. Words like :smiling_face_with_smiling_eyes: and :raising_hands: are emotion tokens, please refer to https://github.com/carpedm20/emoji
+3. To compute the CLIP scores in metric MM-Relevance, we provide a demo in compute_mmrel.py
 ## How to get the dataset
 
 ### To get this dataset, you and your organization require:

@@ -60,8 +60,8 @@ If you don't meet **all of the requirements** above, we **would not** share you 
 | Your  Role      | [master’s student / doctoral candidate / post-doc / faculty / research-focused employee / others]       |
 | Your  study or work organization | e.g. Microsoft Research, DeepMind, Cornell University, ...       |
 | Your  Academic Homepage | Your [Google Scholar] or [Homepage_URL running on  your organization website (e.g. yourname.people.xxx.edu / yourname.xxx.people.msr.microsoft.com)]       |
-| Non-commercial Use  | I [promise / cannot promise] that I will not apply this MMdialog dataset to commercial scenarios or products.  |
-| Sharing Limitation  | I [promise / cannot promise] I would not share this MMdialog dataset without your qualification review and permission.  |
+| Non-commercial Use  | I [promise / cannot promise] that I will not apply this MMDialog dataset to commercial scenarios or products.  |
+| Sharing Limitation  | I [promise / cannot promise] I would not share this MMDialog dataset without your qualification review and permission.  |
 | Your Plan      | (Describe your research plan and how you intend to use and analyze this data from your research. **>= 50 words**)   |
 
 ##### Then use your **edu or research email account** to send the form to [v-jiafeng@microsoft.com] for a review, if you meet all the requirements, we would share you a cloud folder which stores the dataset and preprocess & test scripts **within a week**.

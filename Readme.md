@@ -32,16 +32,17 @@ If you use it in your work, please cite our paper:
 
 **Dataset Folder Format:**
 
-<img title="Dataset Format" alt="Dataset Format" src="./DatasetTree.PNG" style="height: 360px;"/>
+<img title="Dataset Format" alt="Dataset Format" src="./DatasetTree.png" style="height: 360px;"/>
 
 **File: conversations.json**
 
-<img title="Dialogue Case" alt="Dialogue Case" src="./ConvCase.PNG">
+<img title="Dialogue Case" alt="Dialogue Case" src="./ConvCase.png">
 
 **Note:** 
-1. train set do not contains "negative_candidate_media_keys" and "negative_candidate_texts", which only exists in test and valid set. Each "negative_candidate_xxx" contains 999 negative candidates for retrieval task. 
-2. Words like :smiling_face_with_smiling_eyes: and :raising_hands: are emotion tokens, please refer to https://github.com/carpedm20/emoji
-3. To compute the CLIP scores in metric MM-Relevance, we provide a demo in compute_mmrel.py
+1. train set do not contains "negative_candidate_media_keys" and "negative_candidate_texts", which only exists in test and valid set. Each "negative_candidate_xxx" contains 999 negative candidates for retrieval task.
+2. All image filenames are in "media_key.jpg" format.
+3. Words like :smiling_face_with_smiling_eyes: and :raising_hands: are emotion tokens, please refer to https://github.com/carpedm20/emoji
+4. To compute the CLIP scores in metric MM-Relevance, we provide a demo in compute_mmrel.py
 ## How to get the dataset
 
 ### To get this dataset, you and your organization require:

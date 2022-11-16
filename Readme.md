@@ -14,9 +14,9 @@ This repository is the official site of [MMDialog: A Large-scale Multi-turn Dial
 
 **Statistics:**
 
-<img title="Dataset Statistics" alt="Dataset Statistics" src="./DatasetStatistics_1.PNG" style="height: 260px;"/>
+<img title="Dataset Statistics" alt="Dataset Statistics" src="./DatasetStatistics_1.png" style="height: 260px;"/>
 
-<img title="Dataset Statistics" alt="Dataset Statistics" src="./DatasetStatistics_2.PNG" style="height: 260px;"/>
+<img title="Dataset Statistics" alt="Dataset Statistics" src="./DatasetStatistics_2.png" style="height: 260px;"/>
 
 If you use it in your work, please cite our paper:
  [![LINK](https://img.shields.io/badge/-Paper%20Link-lightgrey)](https://arxiv.org/abs/2211.05719) [![PDF](https://img.shields.io/badge/-PDF-red)](https://arxiv.org/pdf/2211.05719.pdf)

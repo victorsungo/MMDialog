@@ -56,6 +56,7 @@ If you don't meet **all of the requirements** above, we **would not** share you 
 
 | Item      | Description |
 | ----------- | ----------- |
+| Your  Name      | [Your name here]       |
 | Your  Role      | [master’s student / doctoral candidate / post-doc / faculty / research-focused employee / others]       |
 | Your  study or work organization | e.g. Microsoft Research, DeepMind, Cornell University, ...       |
 | Your  Academic Homepage | Your [Google Scholar] or [Homepage_URL running on  your organization website (e.g. yourname.people.xxx.edu / yourname.xxx.people.msr.microsoft)]       |

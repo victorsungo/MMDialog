@@ -59,7 +59,7 @@ If you don't meet **all of the requirements** above, we **would not** share you 
 | Your  Name      | [Your name here]       |
 | Your  Role      | [master’s student / doctoral candidate / post-doc / faculty / research-focused employee / others]       |
 | Your  study or work organization | e.g. Microsoft Research, DeepMind, Cornell University, ...       |
-| Your  Academic Homepage | Your [Google Scholar] or [Homepage_URL running on  your organization website (e.g. yourname.people.xxx.edu / yourname.xxx.people.msr.microsoft)]       |
+| Your  Academic Homepage | Your [Google Scholar] or [Homepage_URL running on  your organization website (e.g. yourname.people.xxx.edu / yourname.xxx.people.msr.microsoft.com)]       |
 | Non-commercial Use  | I [promise / cannot promise] that I will not apply data to commercial scenarios or products.  |
 | Sharing Limitation  | I [promise / cannot promise] I would not share this dataset without our qualification review and permission.  |
 | Your Plan      | (Describe your research plan and how you intend to use and analyze this data from your research. **>= 50 words**)   |

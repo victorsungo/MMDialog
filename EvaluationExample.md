@@ -1,4 +1,4 @@
-## Evaluation Examples
+## An Evaluation Example
 
 #### Suppose we have a generated/retrieved multi-modal response:
 
@@ -26,6 +26,6 @@ $\text{BLEU-MM-Textual}(\tilde{R},R)= \frac{1}{3}(\text{BLEU}(\tilde{u}_1,u_1) +
 
 $\text{Recall-MM-Visual}(\tilde{R},R)= \frac{1}{2}(\text{Recall}(\tilde{i}_1,i_1) + \text{Recall}(\tilde{i}_2,i_2))$
 
-### **Remark**
+### **Remark:**
 
 #### When predicting $\tilde{i}_3$, as we do not have $i_3$ in ground-truth response $R$, the response retrieval model can only retrieve visual elements from the given negative elements in candidate set $C_v$.

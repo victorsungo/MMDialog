@@ -39,7 +39,7 @@ If you use it in your work, please cite our paper:
 <img title="Dialogue Case" alt="Dialogue Case" src="./ConvCase.png">
 
 **Note:** 
-1. training set do not contains "negative_candidate_media_keys" and "negative_candidate_texts", which only exists in test and validation set. Each "negative_candidate_xxx" contains 999 negative candidates for retrieval task.
+1. Training set do not contains "negative_candidate_media_keys" and "negative_candidate_texts", which only exists in test and validation set. Each "negative_candidate_xxx" contains 999 negative candidates for retrieval task.
 2. All image filenames are in "media_key.jpg" format.
 3. Words like :smiling_face_with_smiling_eyes: and :raising_hands: are emotion tokens, please refer to https://github.com/carpedm20/emoji
 4. To compute the CLIP scores in metric MM-Relevance, we provide a demo in compute_mmrel.py

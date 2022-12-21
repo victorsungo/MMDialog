@@ -43,6 +43,7 @@ If you use it in your work, please cite our paper:
 2. All image filenames are in "media_key.jpg" format.
 3. Words like :smiling_face_with_smiling_eyes: and :raising_hands: are emotion tokens, please refer to https://github.com/carpedm20/emoji
 4. To compute the CLIP scores in metric MM-Relevance, we provide a demo in compute_mmrel.py
+5. We also provide an evaluation example for metrics evaluated within a single modality (e.g., BLEU, Recall) in [EvaluationExample.md](EvaluationExample.md).
 ## How to get the dataset
 
 ### To get this dataset, you and your organization require:

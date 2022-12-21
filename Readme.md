@@ -39,7 +39,7 @@ If you use it in your work, please cite our paper:
 <img title="Dialogue Case" alt="Dialogue Case" src="./ConvCase.png">
 
 **Note:** 
-1. train set do not contains "negative_candidate_media_keys" and "negative_candidate_texts", which only exists in test and valid set. Each "negative_candidate_xxx" contains 999 negative candidates for retrieval task.
+1. training set do not contains "negative_candidate_media_keys" and "negative_candidate_texts", which only exists in test and validation set. Each "negative_candidate_xxx" contains 999 negative candidates for retrieval task.
 2. All image filenames are in "media_key.jpg" format.
 3. Words like :smiling_face_with_smiling_eyes: and :raising_hands: are emotion tokens, please refer to https://github.com/carpedm20/emoji
 4. To compute the CLIP scores in metric MM-Relevance, we provide a demo in compute_mmrel.py
@@ -59,10 +59,10 @@ If you don't meet **all of the requirements** above, we **would not** share you 
 | ----------- | ----------- |
 | Your  Name      | [Your name here]       |
 | Your  Role      | [master’s student / doctoral candidate / post-doc / faculty / research-focused employee / others]       |
-| Your  study or work organization | e.g. Microsoft Research, DeepMind, Cornell University, ...       |
-| Your  Academic Homepage | Your [Google Scholar] or [Homepage_URL running on  your organization website (e.g. yourname.people.xxx.edu / yourname.xxx.people.msr.microsoft.com)]       |
+| Your  Study or Work Organization | e.g. Microsoft Research, DeepMind, Cornell University, ...       |
+| Your  Personal Academic Homepage **With Publications** | Your [Google Scholar] or [Homepage_URL running on  your organization website (e.g. yourname.people.xxx.edu / yourname.xxx.people.msr.microsoft.com)] with publications. |
 | Non-commercial Use  | I [promise / cannot promise] that I will not apply this MMDialog dataset to commercial scenarios or products.  |
 | Sharing Limitation  | I [promise / cannot promise] I would not share this MMDialog dataset without your qualification review and permission.  |
 | Your Plan      | (Describe your research plan and how you intend to use and analyze this data from your research. **>= 50 words**)   |
 
-##### Then use your **edu or research email account** to send the form to [v-jiafeng@microsoft.com] for a review, if you meet all the requirements, we would share you a cloud folder which stores the dataset and preprocess & test scripts **within a week**.
+Then use your **edu or research email account** to send the form to [v-jiafeng@microsoft.com] for a review, if you meet **all** the requirements, we would share you a cloud folder which stores the pre-processed dataset **within a week**.

@@ -3,7 +3,7 @@
 
 
 
-This repository is the official site of [MMDialog: A Large-scale Multi-turn Dialogue Dataset Towards Multi-modal Open-domain Conversation](https://arxiv.org/abs/2211.05719)
+This repository is the official site of ACL'23 paper: [MMDialog: A Large-scale Multi-turn Dialogue Dataset Towards Multi-modal Open-domain Conversation](https://aclanthology.org/2023.acl-long.405/)
 
 ## About the dataset
 
@@ -19,14 +19,20 @@ This repository is the official site of [MMDialog: A Large-scale Multi-turn Dial
 <img title="Dataset Statistics" alt="Dataset Statistics" src="./DatasetStatistics_2.png" style="height: 260px;"/>
 
 If you use it in your work, please cite our paper:
- [![LINK](https://img.shields.io/badge/-Paper%20Link-lightgrey)](https://arxiv.org/abs/2211.05719) [![PDF](https://img.shields.io/badge/-PDF-red)](https://arxiv.org/pdf/2211.05719.pdf)
+ [![LINK](https://img.shields.io/badge/-Paper%20Link-lightgrey)](https://aclanthology.org/2023.acl-long.405/) [![PDF](https://img.shields.io/badge/-PDF-red)](https://aclanthology.org/2023.acl-long.405.pdf)
 
 ```
-@article{feng2022mmdialog,
-  title={MMDialog: A Large-scale Multi-turn Dialogue Dataset Towards Multi-modal Open-domain Conversation},
-  author={Jiazhan Feng, Qingfeng Sun, Can Xu, Pu Zhao, Yaming Yang, Chongyang Tao, Dongyan Zhao, Qingwei Lin},
-  journal={arXiv preprint arXiv:2211.05719},
-  year={2022}
+@inproceedings{feng-etal-2023-mmdialog,
+    title = "{MMD}ialog: A Large-scale Multi-turn Dialogue Dataset Towards Multi-modal Open-domain Conversation",
+    author = "Feng, Jiazhan and Sun, Qingfeng and Xu, Can and Zhao, Pu and Yang, Yaming and Tao, Chongyang and Zhao, Dongyan and Lin, Qingwei",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-long.405",
+    doi = "10.18653/v1/2023.acl-long.405",
+    pages = "7348--7363"
 }
 ```
 
@@ -66,4 +72,4 @@ If you don't meet **all of the requirements** above, we **would not** share you 
 | Sharing Limitation  | I [promise / cannot promise] I would not share this MMDialog dataset without your qualification review and permission.  |
 | Your Plan      | (Describe your research plan and how you intend to use and analyze this data from your research. **>= 50 words**)   |
 
-Then use your **edu or research email account** to send the form to [v-jiafeng@microsoft.com] for a review, if you meet **all** the requirements, we would share you a cloud folder which stores the pre-processed dataset **within a week**.
+Then use your **edu or research email account** to send the form to [fengjiazhan@pku.edu.cn] for a review, if you meet **all** the requirements, we would share you a cloud folder which stores the pre-processed dataset **within a week**.
